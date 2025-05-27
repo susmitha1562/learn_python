@@ -1,2 +1,7 @@
 # learn_python
-## Description_duplicated
+
+
+## Description
+
+This repo is used for learning python.
+
